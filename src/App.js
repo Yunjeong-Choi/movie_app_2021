@@ -1,3 +1,5 @@
+// 함수 컴포넌트로 정적 데이터 출력하기
+
 import React from 'react';
 import PropTypes from 'prop-types';
 
